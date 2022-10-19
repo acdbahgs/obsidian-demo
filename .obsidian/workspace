@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "ddc5fa5cc95fc2e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef83ac9903fff389",
+        "type": "leaf",
+        "dimension": 38.27493261455526,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FRBNY Background check.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "77690c87a7a27e53",
+        "type": "leaf",
+        "dimension": 61.72506738544474,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templater/meeting templateR.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7bcecd8e3e1793c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f6d86ec8dee578b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e137fcb84767d88b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d9b6bd280335c96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8920b76bc684a832",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "right": {
+    "id": "f6b02fc0cae9573f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1447a8edbbae8ba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104346899504fa8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templater/meeting templateR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "af7afc3c9b963dd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templater/meeting templateR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "561ad089f57c5f59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "465a5c84c730d167",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templater/meeting templateR.md"
+              }
+            }
+          },
+          {
+            "id": "0dc782cd04793afe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "77690c87a7a27e53",
+  "lastOpenFiles": [
+    "Example Advanced table.md",
+    "daily/2022-09-24.md",
+    "test templater.md",
+    "Markdown syntax.md",
+    "daily/2022-10-05.md",
+    "daily/2022-10-07.md",
+    "Creditor Status - Background check.md",
+    "FRBNY Background check.md",
+    "dataview test.md",
+    "Untitled 2.md"
+  ]
+}
