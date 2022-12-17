@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "34e9f581c17e2fe3",
+        "id": "1275446d8b652588",
         "type": "tabs",
         "children": [
           {
-            "id": "a653d6ae4421cd6c",
+            "id": "934d619b28a89f0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-12-03.md",
+                "file": "Templater/meeting templateR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1764914ec9906d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRBNY Background check.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "background",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "right": {
     "id": "f6b02fc0cae9573f",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-12-03.md",
+                "file": "FRBNY Background check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-12-03.md",
+                "file": "FRBNY Background check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-12-03.md"
+                "file": "FRBNY Background check.md"
               }
             }
           },
@@ -143,26 +156,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 200
   },
-  "active": "a653d6ae4421cd6c",
+  "active": "1764914ec9906d0e",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "daily/2022-11-22.md",
-    "email to Cailtin Walsh with 5 promise to pay 2022 11 23.md",
-    "Email to Caitlin Walsh about Promise to pay chase creditors.md",
-    "daily/2022-11-30.md",
-    "Chase MBFS creditor payback Start date 2022-11-30.md",
-    "daily/2022-11-23.md",
-    "daily/2022-11-18.md",
-=======
-    "daily/2022-11-23.md",
-    "email to Cailtin Walsh with 5 promise to pay 2022 11 23.md",
-    "Email to Caitlin Walsh about Promise to pay chase creditors.md",
-    "daily/2022-11-22.md",
->>>>>>> 45bd87660efa44dc5a45d0cb073b3a4ed4e5ab62
-    "daily/2022-11-21.md",
+    "daily/2022-10-03.md",
+    "daily/2022-12-15.md",
+    "daily/2022-12-12.md",
+    "Excalidraw/Drawing 2022-12-09 08.43.25.excalidraw.md",
+    "Templater/meeting templateR.md",
     "Excalidraw/Drawing 2022-11-23 09.38.06 npqs-board_trsy_ODM,BLKRK.excalidraw.md",
-    "email from FRBNY LEW Caitlin Welsh.md"
+    "Templates/Daily Notes Template.md",
+    "Chase MBFS creditor payback Start date 2022-11-30.md",
+    "Note created from TemplateR.md",
+    "new note TempateR test1.md"
   ]
 }

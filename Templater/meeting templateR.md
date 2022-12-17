@@ -1,9 +1,14 @@
 ---
+aliases:
+- TemplateR
+- Test
 date: <% tp.date.now("YYYY-MM-DD") %>
 type: meeting
 company: LEM11
 summary: "Trying to get Templater work"
-tags: index
+tags:
+- paul
+- tech
 ---
 
 ### Last modified date - dynamic cmd: <%+ tp.file.last_modified_date() %>
